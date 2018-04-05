@@ -1,2 +1,3 @@
 .zpass-server.yml
 *.sqlite3
+zpass-server
